@@ -18,3 +18,4 @@ if __name__ == '__main__':
 print("hello")
 my_list =['red','blue','white']
 print(my_list[0])
+print("Test")
