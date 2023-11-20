@@ -19,3 +19,16 @@ print("hello")
 my_list =['red','blue','white']
 print(my_list[0])
 print("Test")
+print("hello")
+my_list =['red','blue','white']
+print(my_list[0])
+print("Test"print("hello")
+my_list =['red','blue','white']
+print(my_list[0])
+print("Test"print("hello")
+my_list =['red','blue','white']
+print(my_list[0])
+print("Test"print("hello")
+my_list =['red','blue','white']
+print(my_list[0])
+print("Test"
